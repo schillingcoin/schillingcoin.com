@@ -52,7 +52,7 @@ The Schillingcoin has two native tokens:
 
 In the so-called "Genesis-Block" (first ever block) of the SchillingCoin network, 100.000.000 (one hundered million) SchillingCoins (ATS) are generated. At this point in time, GRS would not be generated yet. 
 100.000.000 (one hundered million) GRS which correspond to the 100.000.000 (one hundered million) are going to be generated automatically through the use of a decay-algorithm in about 22 years time after genesis.
-If SchillingCoin (ATS) is being transferred to another address, the corresponding GAS will also be credited to the new address.
+If SchillingCoin (ATS) is being transferred to another address, the corresponding GRS will also be credited to the new address.
 
 
 The SchillingCoin network will have a threshold by vote, to exempt GRS from a certain amount of transactions and smart contract operations to enhance the networks stability and the use experience.
@@ -84,7 +84,7 @@ Since there are going to be around 2.000.000 (two million) blocks generated and 
 
 By taking in consideration the current release curve, 16% of all GRS should be created in the firt year. 52% in the first four years and 80% of the total GRS should be created in the first 12 years. 
 
-Holders of SchillingCoin (ATS) can claim their gas at any time at their holding address.
+Holders of SchillingCoin (ATS) can claim their GRS at any time at their holding address.
 
 
 ### Governance mechanism
