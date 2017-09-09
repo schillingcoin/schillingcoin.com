@@ -71,9 +71,13 @@ SchillingCoins 100,000,000 (one hundred million) tokens are divided into two por
 2) 50.000.000 (fifty million) tokens are being distributed for the following use:
 
 *) 10% (10.000.000 / ten million) tokens will be used for paying developers and the council of SchillingCoin
+
 *) 10% (10.000.000 / ten million) tokens will be used for motivating developers in the SchillingCoin community
+
 *) 10% (10.000.000 / ten million) tokens will be used for cross-investing in the development of other block-chain projects that would benefit SchillingCoin, such as cross-chain communication partners.
+
 *) 10% (10.000.000 / ten million) tokens will be retained as a contigency 
+
 *) 10% (10.000.000 / ten million) tokens will be distributed on the ICO 
 
 
