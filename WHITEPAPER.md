@@ -76,9 +76,9 @@ SchillingCoins 100,000,000 (one hundred million) tokens are divided into two por
 
 *) 10% (10.000.000 / ten million) tokens will be used for cross-investing in the development of other block-chain projects that would benefit SchillingCoin, such as cross-chain communication partners.
 
-*) 10% (10.000.000 / ten million) tokens will be retained as a contigency 
-
 *) 10% (10.000.000 / ten million) tokens will be distributed on the ICO 
+
+*) 10% (10.000.000 / ten million) tokens will be retained as a contigency, or if the ICO is not satisfactory, for a second round. 
 
 
 Groschen (GRS) distribution:
