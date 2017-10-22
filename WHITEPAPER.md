@@ -43,17 +43,17 @@ The SchillingCoinVM is a Universal and Lightweight Virtual Machine embedded into
 
 The Schillingcoin has two native tokens:
 
-1) SchillingCoin (abbreviation ATS, for Austrian Schilling)
-2) Groschen (abbreviation GRS)
+1) SchillingCoin (Symbol: SCC)
+2) Groschen (Symbol: GRS)
 
 
 "SchillingCoin", with a maximum total of 100.000.000 tokens, represents the right to manage the network, for example, the right to vote a bookkeeper, network parameter changes and so on. The SchillingCoin itself is indivisible.
 
 "Groschen", with also a maximum total of 100,000,000 tokens, represents the fuel token required in the SchillingCoin network for resource control. The SchillingCoin network charges its users for the storage of tokens, smart contracts or the operation of those, creating therefore economic incentives for bookkeepers and preventing the abuse of resources. Groschen (GRS) minimum unit is at 0.00000001. 
 
-In the so-called "Genesis-Block" (first ever block) of the SchillingCoin network, 100.000.000 (one hundred million) SchillingCoins (ATS) are generated. At this point in time, GRS would not be generated yet. 
+In the so-called "Genesis-Block" (first ever block) of the SchillingCoin network, 100.000.000 (one hundred million) SchillingCoins (SCC) are generated. At this point in time, GRS would not be generated yet. 
 100.000.000 (one hundred million) GRS which correspond to the 100.000.000 (one hundred million) are going to be generated automatically through the use of a decay-algorithm in about twenty-two years’ time after Genesis.
-If SchillingCoin (ATS) is being transferred to another address, the corresponding GRS will also be credited to the new address.
+If SchillingCoin (SCC) is being transferred to another address, the corresponding GRS will also be credited to the new address.
 
 
 The SchillingCoin network will have a threshold by vote, to exempt GRS from a certain amount of transactions and smart contract operations to enhance the networks stability and the user experience.
@@ -89,13 +89,13 @@ Since there are going to be around 2,000,000 (two million) blocks generated and 
 
 By taking in consideration the current release curve, 16% of all GRS should be created in the first year. 52% in the first four years and 80% of the total GRS should be created in the first 12 years. 
 
-Holders of SchillingCoin (ATS) can claim their GRS at any time at their holding address.
+Holders of SchillingCoin (SCC) can claim their GRS at any time at their holding address.
 
 
 ### Governance mechanism
 
 
-Chain governance: SchillingCoin holders can manage the network through voting, using the Groschen (GRS) that is being generated from their SchillingCoins (ATS). SchillingCoin tokens themselves can be transferred. 
+Chain governance: SchillingCoin holders can manage the network through voting, using the Groschen (GRS) that is being generated from their SchillingCoins (SCC). SchillingCoin tokens themselves can be transferred. 
 
 Off-chain governance: The SchillingCoin Council consists of the founders of the SchillingCoin project, under which the management committee is responsible for strategic decision-making. 
 
